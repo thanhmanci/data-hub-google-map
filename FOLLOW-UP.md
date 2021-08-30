@@ -19,7 +19,11 @@
 ###         - I using vue to coding vue app, vue-router to configuration component-based router
 
 ### Q) What's the command to start the application locally?
-### A) =>  To run this app, the first you need add `GOOGLE_API_KEY` in `config/dev.env.js` after that you need run `npm install` and then to start app you need run `npm run dev`
+### A) =>  GOOGLE FLATFORM Require:
+###     - Enable Maps JavaScript API
+###     - Maps Embed API
+###     - Geocoding API
+###     - To run this app, the first you need add `GOOGLE_API_KEY` in `config/dev.env.js` after that you need run `npm install` and then to start app you need run `npm run dev`
 
 ### Q) If you had more time, what further improvements or new features would you add?
 ### A) If I have more time, I wanna do:
